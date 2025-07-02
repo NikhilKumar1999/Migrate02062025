@@ -1,0 +1,6 @@
+FADD:/New Traces
+FADD:/New Traces/gdb
+IADD:00000001:/New Traces/gdb/segments_example
+IDSET:/New Traces/gdb/segments_example:c0a80d08c1d246392884364
+IADD:00000002:/New Traces/gdb/segments_example.1
+IDSET:/New Traces/gdb/segments_example.1:c0a80d096f5359778889197

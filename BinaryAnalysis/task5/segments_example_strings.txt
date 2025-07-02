@@ -1,0 +1,106 @@
+h,^{J
+f/lib64/ld-linux-x86-64.so.2
+perror
+free
+malloc
+__libc_start_main
+__cxa_finalize
+printf
+libc.so.6
+GLIBC_2.34
+GLIBC_2.2.5
+_ITM_deregisterTMCloneTable
+__gmon_start__
+_ITM_registerTMCloneTable
+PTE1
+u3UH
+Hello, Segments!
+malloc failed
+Global Initialized: %d
+Global Uninitialized: %d
+Local Variable: %d
+Heap Variable: %d
+Constant String: %s
+;*3$"
+GCC: (GNU) 15.1.1 20250425
+long long int
+local_var
+unsigned char
+main
+free
+my_constant_string
+long long unsigned int
+global_uninitialized_var
+global_initialized_var
+perror
+short unsigned int
+printf
+heap_var
+short int
+GNU C23 15.1.1 20250425 -mtune=generic -march=x86-64 -g
+malloc
+segments_example.c
+/home/user1/Learn/BinaryAnalysis/task3
+/usr/include
+stdlib.h
+stdio.h
+segments_example.c
+_DYNAMIC
+__GNU_EH_FRAME_HDR
+_GLOBAL_OFFSET_TABLE_
+free@GLIBC_2.2.5
+__libc_start_main@GLIBC_2.34
+_ITM_deregisterTMCloneTable
+_edata
+_fini
+printf@GLIBC_2.2.5
+__data_start
+__gmon_start__
+__dso_handle
+_IO_stdin_used
+malloc@GLIBC_2.2.5
+global_uninitialized_var
+_end
+__bss_start
+main
+global_initialized_var
+perror@GLIBC_2.2.5
+my_constant_string
+__TMC_END__
+_ITM_registerTMCloneTable
+__cxa_finalize@GLIBC_2.2.5
+_init
+.symtab
+.strtab
+.shstrtab
+.note.gnu.property
+.note.gnu.build-id
+.interp
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.note.ABI-tag
+.init_array
+.fini_array
+.dynamic
+.got
+.got.plt
+.data
+.bss
+.comment
+.debug_aranges
+.debug_info
+.debug_abbrev
+.debug_line
+.debug_str
+.debug_line_str

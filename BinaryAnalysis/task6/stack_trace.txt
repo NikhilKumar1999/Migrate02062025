@@ -1,0 +1,5 @@
+Global Initialized: 123
+Global Uninitialized: 0
+Local Variable: 45
+Heap Variable: 67
+Constant String: Hello, Segments!

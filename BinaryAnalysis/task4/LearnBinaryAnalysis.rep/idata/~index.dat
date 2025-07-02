@@ -1,0 +1,9 @@
+VERSION=1
+/
+  00000000:segments_example:c0a80d09aed5797375606811
+/New Traces
+/New Traces/gdb
+  00000001:segments_example:c0a80d08c1d246392884364
+  00000002:segments_example.1:c0a80d096f5359778889197
+NEXT-ID:3
+MD5:d41d8cd98f00b204e9800998ecf8427e
