@@ -1,0 +1,5 @@
+To install:
+	Ghidra
+	Unity
+Rices to keep in mind:
+	meowarch
